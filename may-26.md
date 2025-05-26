@@ -93,3 +93,29 @@ SDKMAN is a command-line tool that simplifies managing different version os SDKs
 Scala is like a smarter version of Java. It runs on the JVM, so it can use all the Java libraries, but it also lets you write code that's more concise, expressive, and powerful. You can check out the docs about Scala here: 
 
 https://docs.scala-lang.org/
+
+
+
+## What is AWL CLI?
+
+AWS Command Line Interface is a powerful, open-source tool that allows you to manage and interact with AWS services from your command line or terminal
+
+
+
+## What is LocalStack?
+
+
+
+## What is git fetch (I've never used it)?
+
+
+
+## What is sbt shell?
+
+
+
+## What does it mean whenever you run "clean, reload, test" on sbt shell.
+
+
+
+## What is Jenkins?
